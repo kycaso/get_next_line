@@ -1,2 +1,2 @@
-# get_next_ine
-A function to read text files that takes the next line everytime this functions is call 
+# get_next_line
+A function that read an amount of text files and takes the next line of each one everytime it's called 
